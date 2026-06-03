@@ -1,6 +1,8 @@
-<p align="center">
+## Hello, I'm Navneet!👋 <img align="right" src="https://komarev.com/ghpvc/?username=Nav2607&style=flat-square&color=blueviolet">
 
-```text
+<div align="center">
+  
+```
   _  _                                             _     
  | \| |   __ _    __ __   _ _     ___     ___     | |_   
  | .` |  / _` |   \ V /  | ' \   / -_)   / -_)    |  _|  
@@ -8,6 +10,13 @@
 _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
 "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
 ```
+</div>
+
+#### Welcome to my profile! 
+I'm an Engineering Science student at the University of Toronto, passionate about aerospace and robotics!
+
+
+
 <!--
 **Nav2607/Nav2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
