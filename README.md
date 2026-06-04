@@ -15,8 +15,16 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 #### Welcome to my profile! 
 I'm an Engineering Science student at the University of Toronto, passionate about aerospace and robotics!
 
-## My Skills & Toolkit
+<div align="center">
+  <a href="https://www.linkedin.com/in/navneet-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:navneet.saxena@mail.utoronto.ca">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
+## My Skills & Toolkit
 ### Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
