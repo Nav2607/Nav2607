@@ -41,6 +41,9 @@ I'm an Engineering Science student at the University of Toronto, passionate abou
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+---
+
+> *"You must take your opponent into a deep dark forest where 2+2=5, and the path leading out is only wide enough for one."* — **Mikhail Tal**
 
 
 <!--
